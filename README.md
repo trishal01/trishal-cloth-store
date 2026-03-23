@@ -2,6 +2,10 @@
 
 This is a cloth app having product listing and cart feature
 
+
+<img width="1583" height="897" alt="cloth-product" src="https://github.com/user-attachments/assets/e0c3d33c-5732-4c8f-b74e-9a824df5ba5c" />
+
+
 ## Features
 
 - Product listing page
@@ -17,5 +21,5 @@ This is a cloth app having product listing and cart feature
 
 ## Run Locally
 
-npm install
-npm run dev
+- npm install
+- npm run dev
